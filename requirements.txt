@@ -2,4 +2,4 @@ kaggle
 numpy
 tensorflow
 keras
-matplotlib.pyplot
+matplotlib
