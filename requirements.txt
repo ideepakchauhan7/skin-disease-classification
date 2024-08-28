@@ -1,10 +1,5 @@
 kaggle
-zipfile
 numpy
 tensorflow
 keras
 matplotlib.pyplot
-pickel
-streamlit
-PIL
-Pillow
