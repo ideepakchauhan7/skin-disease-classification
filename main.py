@@ -38,6 +38,6 @@ if uploaded_file is not None:
 
     # Display the prediction
     
-    st.write(f"Predicted class: {class_names[np.argmax(prediction[0])]}")
+    st.write(f"Predicted class: {class_names[np.argmax(prediction)]}")
     st.write(f"Prediction confidence: {np.max(prediction)*100:.2f}%")
 
