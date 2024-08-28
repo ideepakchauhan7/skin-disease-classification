@@ -1,7 +1,10 @@
+kaggle
+zipfile
 numpy
-matplotlib
-Pillow
-opencv-python-headless
-keras
 tensorflow
+keras
+matplotlib.pyplot
 pickel
+streamlit
+PIL
+Pillow
