@@ -1,0 +1,8 @@
+numpy
+matplotlib
+Pillow
+opencv-python-headless
+keras
+tensorflow
+PIL
+pickel
